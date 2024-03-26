@@ -4,6 +4,8 @@
 
 **This is bold text**
 
+*This text is italicized*
+
 _This text is italicized_
 
 ~~This was mistaken text~~
@@ -15,3 +17,7 @@ _This text is italicized_
 This is a <sub>subscript</sub> text
 
 This is a <sup>superscript</sup> text
+
+Text that is not a quote
+
+> Text that is a quote
