@@ -40,6 +40,14 @@ printf("The int %d, the float %f, the double %lf, the char %c and the string %s"
         numI, numF, numD, charizard, texto);
 
 ```
+To specify the decimal precision (rounding) of a float or a double number, use ```%.nf``` or ```%.nlf```, with n meaning the number of digits to be displayed:
+```
+float numf1 = 5.4564, numf2 = 8.12423; //
+double numd1 = 12.3265, numd2 = 2.12475;
+
+    printf("Float: num1: %.1f, num2: %.2f\n", numf1, numf2);    //5.5 and 8.12
+    printf("Double: num1: %.3lf, num2: %.4lf\n", numd1, numd2); //12.326 and 2.1248
+```
 ### Escape sequences
 ```
 \n //new line
