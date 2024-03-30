@@ -14,6 +14,7 @@ To run it
 ## Built-in
 ```
 #include <stdio.h>
+#include <math.h> \\everything mathematical
 ```
 ## External
 
