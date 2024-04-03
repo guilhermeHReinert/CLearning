@@ -56,6 +56,11 @@ double numd1 = 12.3265, numd2 = 2.12475;
 \\ //backslash character
 \" //double quote character
 ```
+
+### Special characters
+Delta: ```\u0394```
+
+
 # Variables
 
 ## Types
