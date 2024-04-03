@@ -13,12 +13,15 @@ To run it
 ```
 ## Built-in
 ```
-#include <stdio.h>
+#include <stdio.h> \\standard in and out
 #include <math.h> \\everything mathematical
 ```
 ## External
 
 # Functions
+```
+sizeof() \\returns the size in bytes occupied by the variable
+```
 ## Printing
 ```
 printf() //prints a string without "\n"
@@ -58,8 +61,7 @@ double numd1 = 12.3265, numd2 = 2.12475;
 ```
 
 ### Special characters
-Delta: ```\u0394```
-
+M. delta: ```\u0394```
 
 # Variables
 
@@ -72,6 +74,9 @@ Notation for big or small numbers
 24,000 == 24e3 == 24E3
 0.0024 == 24e-3 == 24E-3
 ```
+Keyword for the variable manipulation:
+
+```const int```, ```const double```, ```const char```, ... Defines the variable as constant on the code.
 
 ## Strings
 
