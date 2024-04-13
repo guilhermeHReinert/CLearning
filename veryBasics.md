@@ -13,14 +13,15 @@ To run it
 ```
 ## Built-in
 ```
-#include <stdio.h> \\standard in and out
-#include <math.h> \\everything mathematical
+#include <stdio.h> //standard in and out
+#include <string.h> //basic and necessary tools for string manipulation
+#include <math.h> //everything mathematical
 ```
 ## External
 
 # Functions
 ```
-sizeof() \\returns the size in bytes occupied by the variable
+sizeof() //returns the size in bytes occupied by the variable
 ```
 ## Printing
 ```
@@ -80,6 +81,22 @@ Keyword for the variable manipulation:
 
 ## Strings
 
+```
+char frase[9];
+```
+declarates a string with a maximum space of 9 characters
+```
+int i;
+char phrase[i];
+```
+declarates a string with a maximum space of i characters
+
+
+### Essential functions
+
+```
+strcmp(string1, string1); // 
+```
 
 ## Arrays
 
