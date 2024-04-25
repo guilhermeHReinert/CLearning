@@ -74,6 +74,8 @@ double numd1 = 12.3265, numd2 = 2.12475;
 ```\"``` double quote character
 
 ### Special characters
+Porcentagem: ```%%```
+
 M. delta: ```\u0394```
 
 # Variables
